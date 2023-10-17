@@ -1,0 +1,10 @@
+.part{
+ display :inline-block ;
+ width:200px;
+ background-color:blue ; 
+
+}
+.boss{
+    background-color:blanchedalmond;
+    text-align: center;
+}
